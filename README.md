@@ -1,5 +1,5 @@
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/256154643808256019)](https://discord.com/users/256154643808256019)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/663811099199668245)](https://discord.com/users/663811099199668245)
 
 17 year old c# dev, up to help with anything - mainly use c# but learning js & decent at web
 - if you want help with a repo or project dm me on discord
