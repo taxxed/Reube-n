@@ -1,16 +1,17 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/663811099199668245)](https://discord.com/users/663811099199668245)
 
-17 year old c# dev, up to help with anything - mainly use c# but learning js & decent at web
-- if you want help with a repo or project dm me on discord
-- online throughout day time GMT
+  c#, familiar with rust, js & c++ and active in gamesense lua community from 2019-2024
+- visit my site: currently down
+- inactive from freelance and github for 1 year + due to a large prolonged project.
 
-**languages/applications**
+**my stack**
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![c#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-f74c00?logo=rust&logoColor=000000)
+![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
+![lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=ffffff)
