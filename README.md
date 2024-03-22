@@ -5,7 +5,8 @@
 - visit my site: currently down
 - inactive from freelance and github for 1 year + due to a large prolonged project.
 
-**my stack**
+### my stack
+
 ![rust](https://img.shields.io/badge/Rust-f74c00?logo=rust&logoColor=000000)
 ![typescript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=ffffff)
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=ffffff)
