@@ -1,9 +1,11 @@
+## FOR INFORMATION ON BOTNET API CONTACT ON TELEGRAM ONLY
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/663811099199668245)](https://discord.com/users/663811099199668245)
 
   c#, familiar with all languages in stack, and active in gamesense lua community from 2019-2024
 - visit my site: currently down
 - inactive from freelance and github for 1 year + due to a large prolonged project.
+
 
 ### my stack
 
